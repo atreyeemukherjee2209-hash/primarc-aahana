@@ -1,2 +1,11 @@
 # primarc-aahana
-Premium apartments in Kolkata – Primarc Aahana offers modern living with top amenities. Visit: https://aahanakolkata.co.in/
+# Primarc Aahana Kolkata
+
+Primarc Aahana offers premium boutique apartments in Kolkata with modern amenities, excellent connectivity, and a refined lifestyle.
+
+## Project Highlights:
+- Spacious modern apartments  
+- Premium amenities  
+- Prime Kolkata location  
+
+👉 Visit Website: https://aahanakolkata.co.in/
